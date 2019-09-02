@@ -17,5 +17,3 @@ for i in range(num):
         prime_num += 1
 
 print(prime_num)
-
-# 깃 테스트
