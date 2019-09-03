@@ -25,3 +25,4 @@ else:
         SUM += prime_num[i]
     print(SUM)
     print(prime_num[0])
+# 깃 테스트
